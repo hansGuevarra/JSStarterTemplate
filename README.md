@@ -1,0 +1,2 @@
+# JSStarterTemplate
+JavaScript Development Environment 
